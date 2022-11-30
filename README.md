@@ -1,5 +1,5 @@
 # CF_SQL
-Analysis of a sample database from a fictional movie rental company, 'Rockbuster Stealth,' in PostgreSQL as part of CareerFounday's Data Analystics Program course requirements. 
+Analysis of a sample database from a fictional movie rental company, 'Rockbuster Stealth,' in PostgreSQL as part of CareerFoundry's Data Analytics Program course requirements. 
 ## Objective
 Rockbuster Stealth is a movie rental company that used to have stores around the world, but is now down to just two stores. In order to keep up with the competition from well known streaming services, the Rockbuster management team plans to use its existing movie licenses to launch an online video rental service. 
 
